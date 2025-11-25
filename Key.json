@@ -1,16 +1,16 @@
 {
   "showDialog": true,
   "title": "🔐 KiTV",
-  "description": "Please login to continue using this app.",
+  "description": "Terus Nonton - Nonton Terus",
   "button": "LOGIN",
-  "toast": "✅ Successfully Logged In !",
+  "toast": "✅ Selamat Menyaksikan !",
   "renewUrl": "https://t.me/rasyid_22",
   "devices": [
     {
-      "device_id": "591a2a49ce8ca4dc",
+      "device_id": "7fdf9500a0590977",
       "username": "KiNoy",
       "password": "12345",
-      "expire_date": "2025-11-25"
+      "expire_date": "2222-11-22"
     },
     {
       "device_id": "abcdef9876543210",
